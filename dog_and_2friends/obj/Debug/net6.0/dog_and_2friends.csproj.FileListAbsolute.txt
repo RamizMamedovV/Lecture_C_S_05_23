@@ -1,0 +1,15 @@
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\bin\Debug\net6.0\dog_and_2friends.exe
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\bin\Debug\net6.0\dog_and_2friends.deps.json
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\bin\Debug\net6.0\dog_and_2friends.runtimeconfig.json
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\bin\Debug\net6.0\dog_and_2friends.dll
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\bin\Debug\net6.0\dog_and_2friends.pdb
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\obj\Debug\net6.0\dog_and_2friends.csproj.AssemblyReference.cache
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\obj\Debug\net6.0\dog_and_2friends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\obj\Debug\net6.0\dog_and_2friends.AssemblyInfoInputs.cache
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\obj\Debug\net6.0\dog_and_2friends.AssemblyInfo.cs
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\obj\Debug\net6.0\dog_and_2friends.csproj.CoreCompileInputs.cache
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\obj\Debug\net6.0\dog_and_2friends.dll
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\obj\Debug\net6.0\refint\dog_and_2friends.dll
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\obj\Debug\net6.0\dog_and_2friends.pdb
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\obj\Debug\net6.0\dog_and_2friends.genruntimeconfig.cache
+C:\Users\ramiz\OneDrive\Masaüstü\Lecture_C#_05_23\dog_and_2friends\obj\Debug\net6.0\ref\dog_and_2friends.dll
