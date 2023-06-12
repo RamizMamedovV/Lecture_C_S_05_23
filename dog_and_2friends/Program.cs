@@ -1,7 +1,7 @@
 ﻿int count = 0;
 int dist;
 Console.Write("Введите длину дистанции в целых числах: ");
-string input = Console.ReadLine();
+string input = Console.ReadLine()!;
 if (int.TryParse(input, out dist))
 {
     Console.WriteLine("ОГО! Ну ладно, побежали))");
